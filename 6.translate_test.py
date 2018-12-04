@@ -74,4 +74,4 @@ if __name__ == '__main__':
         content = input("请输入您需要翻译的内容（q 退出）:")
         if content == "q":
             break
-        fanyi(content)
+        fanyi(content)   
