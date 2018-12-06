@@ -20,4 +20,4 @@ if __name__ == "__main__":
     # 读取相应信息并解码
     html = response.read().decode("utf-8")
     # 打印信息
-    print(html)
+    print(html) 
